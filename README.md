@@ -1,2 +1,1 @@
-# WI-Zoom
-This only exists to host WI Zoom releases, please ignore!
+![](https://img.wimods.net/github.com/Wurst-Imperium-MCX/WI-Zoom)
